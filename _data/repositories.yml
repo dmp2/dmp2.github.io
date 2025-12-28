@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dmp2
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  # Add specific repos to highlight here, e.g.:
+  # - dmp2/project-name
+  # Leave empty for now; repos can be added later
