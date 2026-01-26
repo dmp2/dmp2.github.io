@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-01-09'
+  last_updated: '2026-01-26'
 papers:
   eNhvvQoAAAAJ:2osOgNQ5qMEC:
     citations: 9
-    title: Linking vestibular function and sub-cortical grey matter volume changes in a longitudinal study of aging adults
-    year: '2020'
+    title: Linking vestibular function and subcortical gray matter volume changes in a longitudinal study of aging adults
+    year: '2021'
   eNhvvQoAAAAJ:4hFrxpcac9AC:
     citations: 0
     title: How Reliable Are Networks? A Bayesian Modeling Approach
     year: Unknown Year
   eNhvvQoAAAAJ:9yKSN-GCB0IC:
-    citations: 3
+    citations: 4
     title: "Candidacy for Cochlear implantation: Validating a novel Cochlear implant candidacy calculator against gold\u2010standard, in\u2010clinic audiometric assessments"
     year: '2022'
   eNhvvQoAAAAJ:HIFyuExEbWQC:
@@ -38,15 +38,15 @@ papers:
     title: "Quantitative vestibular assessment: The development and validation of a novel, remote video head impulse test against in\u2010clinic measurements"
     year: '2023'
   eNhvvQoAAAAJ:W7OEmFMy1HYC:
-    citations: 4
+    citations: 5
     title: Reduced vestibular function is associated with cortical surface shape changes in the frontal cortex
     year: '2025'
   eNhvvQoAAAAJ:Y0pCki6q_DkC:
-    citations: 0
+    citations: 1
     title: Automatic Segmentation of Heschl Gyrus and Planum Temporale by MRICloud
     year: '2024'
   eNhvvQoAAAAJ:d1gkVwhDpl0C:
-    citations: 80
+    citations: 81
     title: Oral mucosa-on-a-chip to assess layer-specific responses to bacteria and dental materials
     year: '2018'
   eNhvvQoAAAAJ:qjMakFHDy7sC:
