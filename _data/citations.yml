@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-26'
 papers:
   eNhvvQoAAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -29,6 +29,10 @@ papers:
     citations: 0
     title: Structural Vestibular Neuroimaging in an Aging Population
     year: '2025'
+  eNhvvQoAAAAJ:NMlhSUseqAsC:
+    citations: 0
+    title: Bayesian In Vivo Tracking of Synapses using Joint Poisson Deconvolution and Diffeomorphic Registration
+    year: '2026'
   eNhvvQoAAAAJ:Tyk-4Ss8FVUC:
     citations: 4
     title: 'The inner ear and aging brain: A cross-sectional study of vestibular function and morphometric variations in the entorhinal and trans-entorhinal cortex'
@@ -50,11 +54,11 @@ papers:
     title: Automatic Segmentation of Heschl Gyrus and Planum Temporale by MRICloud
     year: '2024'
   eNhvvQoAAAAJ:d1gkVwhDpl0C:
-    citations: 87
+    citations: 91
     title: Oral mucosa-on-a-chip to assess layer-specific responses to bacteria and dental materials
     year: '2018'
   eNhvvQoAAAAJ:qjMakFHDy7sC:
-    citations: 3
+    citations: 2
     title: Vestibular Function Predicts Prefrontal and Sensorimotor Cortical Gray Matter Volumes in a Cross-Sectional Study of Healthy, Older Adults
     year: '2022'
   eNhvvQoAAAAJ:u-x6o8ySG0sC:
