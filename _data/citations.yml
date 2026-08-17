@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-08-17'
 papers:
   eNhvvQoAAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -10,7 +10,7 @@ papers:
     title: How Reliable Are Networks? A Bayesian Modeling Approach
     year: Unknown Year
   eNhvvQoAAAAJ:9yKSN-GCB0IC:
-    citations: 6
+    citations: 5
     title: "Candidacy for Cochlear implantation: Validating a novel Cochlear implant candidacy calculator against gold\u2010standard, in\u2010clinic audiometric assessments"
     year: '2022'
   eNhvvQoAAAAJ:Aul-kAQHnToC:
@@ -22,7 +22,7 @@ papers:
     title: Altered hippocampal shape morphology in schizophrenia and at-risk mental state
     year: '2025'
   eNhvvQoAAAAJ:IjCSPb-OGe4C:
-    citations: 3
+    citations: 4
     title: "Local spatial navigation or \u201Csteering\u201D in patients with vestibular loss in a virtual reality environment"
     year: '2024'
   eNhvvQoAAAAJ:K3LRdlH-MEoC:
@@ -35,14 +35,14 @@ papers:
     year: '2026'
   eNhvvQoAAAAJ:Tyk-4Ss8FVUC:
     citations: 4
-    title: 'The inner ear and aging brain: A cross-sectional study of vestibular function and morphometric variations in the entorhinal and trans-entorhinal cortex'
+    title: 'The Inner Ear and Aging Brain: A Cross-Sectional Study of Vestibular Function and Morphometric Variations in the Entorhinal and Trans-Entorhinal Cortex: CJ Vania et al.'
     year: '2025'
   eNhvvQoAAAAJ:URolC5Kub84C:
     citations: 0
     title: Associations Between Vestibular Function and White Matter Microstructure in Healthy Older Adults
     year: '2025'
   eNhvvQoAAAAJ:UeHWp8X0CEIC:
-    citations: 2
+    citations: 3
     title: "Quantitative vestibular assessment: The development and validation of a novel, remote video head impulse test against in\u2010clinic measurements"
     year: '2023'
   eNhvvQoAAAAJ:W7OEmFMy1HYC:
@@ -54,12 +54,12 @@ papers:
     title: Automatic Segmentation of Heschl Gyrus and Planum Temporale by MRICloud
     year: '2024'
   eNhvvQoAAAAJ:d1gkVwhDpl0C:
-    citations: 91
+    citations: 96
     title: Oral mucosa-on-a-chip to assess layer-specific responses to bacteria and dental materials
     year: '2018'
   eNhvvQoAAAAJ:qjMakFHDy7sC:
     citations: 2
-    title: Vestibular Function Predicts Prefrontal and Sensorimotor Cortical Gray Matter Volumes in a Cross-Sectional Study of Healthy, Older Adults
+    title: Vestibular function predicts prefrontal and sensorimotor cortical gray matter volumes in a cross-sectional study of healthy, older adults
     year: '2022'
   eNhvvQoAAAAJ:u-x6o8ySG0sC:
     citations: 0
